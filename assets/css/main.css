@@ -2308,6 +2308,7 @@ section,
 
 .portfolio-details .swiper-wrapper {
   height: auto !important;
+  width: 100% !important;
 }
 
 .portfolio-details .swiper-pagination {
